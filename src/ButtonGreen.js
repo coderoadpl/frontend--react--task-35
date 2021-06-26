@@ -1,8 +1,9 @@
 import React from 'react'
 
+const backgroundColor = 'green'
 const buttonStyles = {
   color: 'white',
-  backgroundColor: 'green'
+  backgroundColor
 }
 
 export const ButtonGreen = () => {
